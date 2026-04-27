@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.1.0/bb_0.1.0_windows_amd64.zip",
+            "bin": [
+                "bb.exe"
+            ],
+            "hash": "29507a102397df17691df4bf7eda4c4cfc278abd475e491f74646354b762d8ff"
+        },
+        "arm64": {
+            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.1.0/bb_0.1.0_windows_arm64.zip",
+            "bin": [
+                "bb.exe"
+            ],
+            "hash": "8e431d761ce93c7c0e1ed04402bc85e4cc50ef4e0c4c24cbda396c59a494af13"
+        }
+    },
+    "homepage": "https://github.com/hugs7/bitbucket-cli",
+    "license": "MIT",
+    "description": "A comprehensive command-line interface for Bitbucket."
+}
