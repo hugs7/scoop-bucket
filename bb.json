@@ -6,14 +6,14 @@
             "bin": [
                 "bb.exe"
             ],
-            "hash": "8badaf87ad9a378632e9619cad00abeef260656ec804735d8fd88e1408615106"
+            "hash": "5a1d348c943e291867bded39a8aac63c11c5e7fe3f71707048a9fbfcda77362e"
         },
         "arm64": {
             "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.1.0/bb_0.1.0_windows_arm64.zip",
             "bin": [
                 "bb.exe"
             ],
-            "hash": "12ec006575bf2076f1b545d9ee83499108ce6e1d4edee41046c49b0f415a7613"
+            "hash": "b1de00b2683afb06e102ed4757b798625ab1b1754efac244e20dba817bb66ceb"
         }
     },
     "homepage": "https://github.com/hugs7/bitbucket-cli",
