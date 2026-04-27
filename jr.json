@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.1.0/jr_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.2.0/jr_0.2.0_windows_amd64.zip",
             "bin": [
                 "jr.exe"
             ],
-            "hash": "9ec9c8e1fef0de892eafd4020b6a16299be0f907487b8a84aed781c4b17f2b53"
+            "hash": "fa0b908e9d95889adf9cb4ce23c5e515832a9ad9b5b7bc2552e9fb16263d50c4"
         },
         "arm64": {
-            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.1.0/jr_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.2.0/jr_0.2.0_windows_arm64.zip",
             "bin": [
                 "jr.exe"
             ],
-            "hash": "12396080d56b828ae20d4d6529538c3e2b36367d44cbeb81c7a7ccc245a92755"
+            "hash": "ae99a678efbbdb52bd7f39c8160b2432c8a6361d8021c5fa74a87976bbf82e6c"
         }
     },
     "homepage": "https://github.com/hugs7/jira-cli",
