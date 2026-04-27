@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.1.0/jr_0.1.0_windows_amd64.zip",
+            "bin": [
+                "jr.exe"
+            ],
+            "hash": "9ec9c8e1fef0de892eafd4020b6a16299be0f907487b8a84aed781c4b17f2b53"
+        },
+        "arm64": {
+            "url": "https://github.com/hugs7/jira-cli/releases/download/v0.1.0/jr_0.1.0_windows_arm64.zip",
+            "bin": [
+                "jr.exe"
+            ],
+            "hash": "12396080d56b828ae20d4d6529538c3e2b36367d44cbeb81c7a7ccc245a92755"
+        }
+    },
+    "homepage": "https://github.com/hugs7/jira-cli",
+    "license": "MIT",
+    "description": "A fast, comprehensive command-line interface and TUI for Jira."
+}
