@@ -1,19 +1,19 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.6.0/bb_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.7.0/bb_0.7.0_windows_amd64.zip",
             "bin": [
                 "bb.exe"
             ],
-            "hash": "9ba0e8df76e82624c169e47b4e7028b235d85eb26505aa0bd00b80dad6fd6ace"
+            "hash": "5b16bc90b1096795a4671960365f081afe437341aefec145092c7e491ab37aa8"
         },
         "arm64": {
-            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.6.0/bb_0.6.0_windows_arm64.zip",
+            "url": "https://github.com/hugs7/bitbucket-cli/releases/download/v0.7.0/bb_0.7.0_windows_arm64.zip",
             "bin": [
                 "bb.exe"
             ],
-            "hash": "7917e456a942e5568ea3990ce67b92bdbcc6ef2f17d9ab5cffa255383c8f50c7"
+            "hash": "66573a36b9381b4fa55288826e401ca5e9b446e10c9cfc95f093f5ebeefefa77"
         }
     },
     "homepage": "https://github.com/hugs7/bitbucket-cli",
